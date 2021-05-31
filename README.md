@@ -1,4 +1,4 @@
-# Videojuego-2D
+# Logan The Fox
 
 Descargar el repositorio como Zip
 
