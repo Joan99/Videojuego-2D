@@ -3,6 +3,7 @@
 Los videos de las partidas y el desarrollo estan subidos a youtube.<br />
 Desarrollo:<br />
 https://youtu.be/T2CKaK2j2rY 
+<br />
 Partidas: <br />
 https://youtu.be/NDP8CXFZd9g
 
